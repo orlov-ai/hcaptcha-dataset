@@ -3,19 +3,19 @@ Dataset of thousands of hcaptcha images.
 
 ![Sample Images](merged_classes.png)
 
-Manually labeled.
+Manually labeled.<br/>
 Last updated: April 2022.
 
 ## Classes
 
-airplane: 503
-bicycle: 375
-boat: 662
-motorbus: 317
-motorcycle: 733
-seaplane: 355
-train: 304
-truck: 819
+airplane: 503<br/>
+bicycle: 375<br/>
+boat: 662<br/>
+motorbus: 317<br/>
+motorcycle: 733<br/>
+seaplane: 355<br/>
+train: 304<br/>
+truck: 819<br/>
 
 ## Sizes
 
