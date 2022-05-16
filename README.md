@@ -1,5 +1,6 @@
 # hcaptcha-dataset
-Dataset of thousands of hcaptcha images.
+Dataset of thousands of hcaptcha images.  
+Collected using https://github.com/orlov-ai/hcaptcha-collector
 
 ![Sample Images](merged_classes.png)
 
